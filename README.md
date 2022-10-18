@@ -8,12 +8,12 @@
   </a>
 </p>
 <p align="center">
-  <a href="https://github.com/TroJanzHEX/Unlimited-Filter-Bot/stargazers">
+  <a href="https://github.com/Jnanesh124/Unlimited-Filter-Bot">
     <img src="https://img.shields.io/github/stars/TroJanzHEX/Unlimited-Filter-Bot?style=social">
 
   </a>
   
-  <a href="https://github.com/TroJanzHEX/Unlimited-Filter-Bot/fork">
+  <a href="https://github.com/Jnanesh124/Unlimited-Filter-Bot">
     <img src="https://img.shields.io/github/forks/TroJanzHEX/Unlimited-Filter-Bot?label=Fork&style=social">
 
   </a>  
